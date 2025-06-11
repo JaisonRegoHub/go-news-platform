@@ -1,0 +1,15 @@
+# Go
+bin/
+*.exe
+*.log
+*.out
+*.test
+vendor/
+
+# Dependency directories
+vendor/
+pkg/
+
+# IDEs
+.vscode/
+.idea/
